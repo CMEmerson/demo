@@ -11,7 +11,6 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan
 @EnableAutoConfiguration
 //Emerson Branch
-
 public class DemoApplication {
 
 	public static void main(String[] args) {
